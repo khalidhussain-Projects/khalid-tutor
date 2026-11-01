@@ -1,0 +1,5 @@
+{
+  "name": "khalid-tutor-marketplace",
+  "owner": { "name": "khalidhussain-Projects" },
+  "plugins": [{ "name": "Khalid-tutor", "source": "./" }]
+}
