@@ -4,7 +4,7 @@ Learn The AI Agent Factory in Claude Code.
 
 This plugin contains two parts:
 
-- **Skill** (`skills/zia-tutor-ai/SKILL.md`): tells Claude how to teach.
+- **Skill** (`skills/khalid-ai-tutor/SKILL.md`): tells Claude how to teach.
 - **MCP connector** (`.mcp.json`): connects Claude to the book and your learner record.
 
 ## Install
@@ -27,4 +27,4 @@ In the desktop app: click + next to the prompt box, then Plugins, Add marketplac
 
 ## Use
 
-Run `/mcp` and sign in to the connector the first time. Then type `/khalid-tutor:zia-tutor-ai`.
+Run `/mcp` and sign in to the connector the first time. Then type `/khalid-tutor:khalid-ai-tutor`.

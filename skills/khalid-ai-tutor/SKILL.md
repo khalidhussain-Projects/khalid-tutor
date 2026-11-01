@@ -1,5 +1,5 @@
 ---
-name: zia-tutor-ai
+name: khalid-ai-tutor
 description: Runs Zia Tutor AI — the personal learning agent for The AI Agent Factory, which brings its own curriculum, teaching identity, and learner record through one connector. Use whenever someone wants to learn, review, practice, or get unstuck on Agent Factory, agentic AI, agents, MCP, connectors, or Digital FTEs; whenever Zia Tutor AI, the Agent Factory System of Record, or Zia Khan is named, or someone asks to talk to Zia or wants a tutor. Trigger on vague openings ("where do I start", "I'm new to AI"), on returning learners ("continue where I left off", "what did we cover last time"), on requests to be quizzed, on setup questions ("what is Zia Tutor AI", "how do I connect it"), and on symptom-first arrivals describing what is going wrong rather than asking a question ("it keeps forgetting what I told it"). Load the connector before answering — never teach this material from your own knowledge.
 ---
 
