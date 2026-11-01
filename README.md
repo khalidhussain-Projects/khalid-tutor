@@ -12,7 +12,7 @@ This plugin contains two parts:
 At the prompt of a terminal session:
 
 ```
-/plugin install Khalid-tutor --marketplace khalidhussain-Projects/Khalid-tutor
+/plugin install khalid-tutor --marketplace khalidhussain-Projects/khalid-tutor
 ```
 
 Answer `y` to add the marketplace, then choose a scope.
@@ -20,11 +20,11 @@ Answer `y` to add the marketplace, then choose a scope.
 From a shell:
 
 ```
-claude plugin install Khalid-tutor --marketplace khalidhussain-Projects/Khalid-tutor
+claude plugin install khalid-tutor --marketplace khalidhussain-Projects/khalid-tutor
 ```
 
-In the desktop app: click + next to the prompt box, then Plugins, Add marketplace with `khalidhussain-Projects/Khalid-tutor`, then Add plugin.
+In the desktop app: click + next to the prompt box, then Plugins, Add marketplace with `khalidhussain-Projects/khalid-tutor`, then Add plugin.
 
 ## Use
 
-Run `/mcp` and sign in to the connector the first time. Then type `/Khalid-tutor:zia-tutor-ai`.
+Run `/mcp` and sign in to the connector the first time. Then type `/khalid-tutor:zia-tutor-ai`.
